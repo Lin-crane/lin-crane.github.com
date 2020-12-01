@@ -1,14 +1,13 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      
+      <h1>黄崇琳</h1>
+      <p><b>本科生</b></p>
+      <p><b>浙江万里学院</b></p>
+      <p><b>邮箱：1920212143@qq.com</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/mmexport06410465f187670b1e8ca61cdab59235.jpeg" width="100%">
     </td>
   </tr>
 </table>
